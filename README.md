@@ -52,7 +52,8 @@ cargo watch -x run
 
 - [The Rust Book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-- "Algorithmic Thinking" by Daniel Zingaro
+- [Exercism: Rust track](https://exercism.org/tracks/rust)
+- Book: "Algorithmic Thinking" by Daniel Zingaro
 - [Advent of Code](https://adventofcode.com/)
 
 
