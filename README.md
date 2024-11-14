@@ -5,7 +5,7 @@ A repository to track my journey learning Rust, following "Algorithmic Thinking"
 ## Learning Path
 
 ### Week 1 (Nov 11-17): Fundamentals
-- [ ] Basic syntax and concepts
+- [x] Basic syntax and concepts
 - [ ] Ownership and borrowing
 - [ ] Structs and enums
 - [ ] Collections (Vec, HashMap)
