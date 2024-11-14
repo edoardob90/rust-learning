@@ -50,7 +50,7 @@ cargo watch -x run
 
 ### Key Resources
 
-- [The Rust Book](https://doc.rust-lang.org/book/)
+- [The Rust Book](https://doc.rust-lang.org/book/) (and its [interactive version](https://rust-book.cs.brown.edu/))
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Exercism: Rust track](https://exercism.org/tracks/rust)
 - Book: "Algorithmic Thinking" by Daniel Zingaro
